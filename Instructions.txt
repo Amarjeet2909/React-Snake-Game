@@ -1,0 +1,11 @@
+Commands used in this Project:))
+
+1. npm install -g create-react-app:- To create a CRA (create-react-app) project, first we need to install it
+2. npx create-react-app snake-game:- to create the project named snake-game
+
+once project creation finished let's go into project directory by cd snake-game
+
+To run the Projct: npm run start
+
+3. npm install redux react-redux redux-saga:- To Install Redux & redux-saga
+4. npm install @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^5:- To Install Chakra UI
