@@ -8,4 +8,4 @@ once project creation finished let's go into project directory by cd snake-game
 To run the Projct: npm run start
 
 3. npm install redux react-redux redux-saga:- To Install Redux & redux-saga
-4. npm install @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^5:- To Install Chakra UI
+4. npm install @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^5:- To Install Chakra UI Interface
